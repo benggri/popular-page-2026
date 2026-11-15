@@ -54,7 +54,7 @@ const INFRA_HINTS = [
   "app-measurement", "crashlytics", "firebaseio", "sentry", "hotjar",
   "criteo", "adnxs", "rubiconproject", "pubmatic", "casalemedia",
   "scorecardresearch", "demdex", "omtrdc", "applovin", "unity3d",
-  "ezviz", "cloudcam", "triplink", "tiktokv", "byteoversea", "ibyteimg", "bytefcdn", "fastly",
+  "ezviz", "cloudcam", "triplink", "gwfb", "domaincontrol", "tiktokv", "byteoversea", "ibyteimg", "bytefcdn", "fastly",
   "github.io", "githubusercontent", "gtld-servers", "pki", "ocsp",
   "apple-dns", "aaplimg", "mcafee", "symantec", "sophos", "avast",
 ];
